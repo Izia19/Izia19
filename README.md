@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Iza</h1>
 <h3 align="center">I love game and programing</h3>
 
+<h3 align="left">About me:</h3>
 - 📫 Contact **mazuriza99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
