@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Iza</h1>
 <h3 align="center">I love game and programing</h3>
 
-<h3 align="left">About me:</h3>
-- 📫 Contact **mazuriza99@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/izia." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="izia." height="30" width="40" /></a>
-</p>
+<h3 align="left">Contact:</h3>
+- 📫 **mazuriza99@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
